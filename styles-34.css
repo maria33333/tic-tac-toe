@@ -1,0 +1,15 @@
+#line span {
+	border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    display: table-cell;
+    font: bold 60px arial;
+    text-align: center;
+    font-weight: normal;
+    color: rgb(48, 48, 48)
+} 
+#result {
+    font-size: 50px;
+    color: rgb(48, 48, 48);
+}
+
